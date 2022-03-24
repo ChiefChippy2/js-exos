@@ -1,1 +1,1 @@
-chrome.exe  --disable-site-isolation-trials --disable-web-security --user-data-dir=dossier-vide ./index.html
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"  --disable-site-isolation-trials --disable-web-security --user-data-dir=dossier-vide "index.html"
