@@ -145,7 +145,7 @@ const hiddenTests = [
 441
 539
 818
-245
+231
 `, output: `536`
   }
 ];
