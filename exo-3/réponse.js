@@ -8,6 +8,6 @@
  * Ligne 3: Année
  */
 
- export function main() {
+ function main() {
   // Code ici
 }

@@ -5,6 +5,6 @@
  * N Lignes suivantes : un nombre
  */
 
-export function main() {
+function main() {
   // Code ici
 }

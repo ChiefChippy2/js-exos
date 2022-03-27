@@ -7,7 +7,7 @@
  * Ligne 1 : N, le nombre de chaînes de texte qui suivent.
  * Les N lignes suivantes : des chaînes de textes
  */
-export function main() { // ne touchez pas à ça
+function main() { // ne touchez pas à ça
   const N = parseInt(readline()); // parseInt convertit l'argument en Nombre
 
   let chaîneFinale = '';

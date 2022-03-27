@@ -6,6 +6,6 @@
  * N lignes suivantes : contenu du ficher csv
  */
 
- export function main() {
+ function main() {
   // Code ici
 }

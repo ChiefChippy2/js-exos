@@ -7,6 +7,6 @@
  * Ligne 1 : entier N à convertir
  */
 
- export function main() {
+ function main() {
   // Code ici
 }

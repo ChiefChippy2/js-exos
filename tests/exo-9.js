@@ -1,4 +1,4 @@
-export const examples = [
+const examples = [
   {
     input: 
 `2
@@ -9,7 +9,7 @@ bonjour
   }
 ]
 
-export const hiddenTests = [
+const hiddenTests = [
   {
     input:
 `4
@@ -20,3 +20,7 @@ test
 `, output: `ceci est un test`
   }
 ]
+
+
+window.examples = examples;
+window.hiddenTests = hiddenTests;

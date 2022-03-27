@@ -8,6 +8,6 @@
  * Ligne 1 : X Y Z N, separée par un espace. (ex: Pour "1 20 3 4", X = 1, Y = 20, Z = 3, N = 4)
  */
 
- export function main() {
+ function main() {
   // Code ici
 }

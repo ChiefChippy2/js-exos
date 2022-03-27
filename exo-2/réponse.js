@@ -6,6 +6,6 @@
  * Ligne 1 : N
  */
 
- export function main() {
+ function main() {
   // Code ici
 }

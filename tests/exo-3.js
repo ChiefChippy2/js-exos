@@ -1,4 +1,4 @@
-export const examples = [
+const examples = [
   {
     input: 
 `24
@@ -35,7 +35,7 @@ export const examples = [
   }
 ]
 
-export const hiddenTests = [
+const hiddenTests = [
   {
     input:
 `25
@@ -43,3 +43,7 @@ export const hiddenTests = [
 2021`, output: `Jeudi`
   }
 ]
+
+
+window.examples = examples;
+window.hiddenTests = hiddenTests;

@@ -7,6 +7,6 @@
  * Ligne 1 : numéro de téléphone à afficher sous un format correct. Peut contenir des symboles
  */
 
- export function main() {
+ function main() {
   // Code ici
 }

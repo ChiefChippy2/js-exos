@@ -1,4 +1,4 @@
-export const examples = [
+const examples = [
   {
     input: 
 `0818237813`, output:
@@ -18,7 +18,7 @@ export const examples = [
   }
 ]
 
-export const hiddenTests = [
+const hiddenTests = [
   {
     input:`0123-555+666`, output: `+33 1 23 55 56 66`
   },
@@ -29,3 +29,7 @@ export const hiddenTests = [
     input:`0123559666`, output: `+33 1 23 55 96 66`
   },
 ]
+
+
+window.examples = examples;
+window.hiddenTests = hiddenTests;

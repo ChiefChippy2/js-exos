@@ -1,4 +1,4 @@
-export const examples = [
+const examples = [
   {
     input: 
 `15
@@ -50,7 +50,7 @@ couv_rappel_e;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0`
   }
 ]
 
-export const hiddenTests = [
+const hiddenTests = [
   {
     input:
 `10
@@ -74,3 +74,7 @@ n_tot_dose4;232;13;0;0;0;0;208;4;0;0
 n_tot_rappel;71789;7903;1;6;13;2;83167;1589;0;160`
   }
 ]
+
+
+window.examples = examples;
+window.hiddenTests = hiddenTests;
